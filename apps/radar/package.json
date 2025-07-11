@@ -1,3 +1,1 @@
-"scripts": {
-    "start": "vite preview --host 0.0.0.0 --port $PORT"
-}
+git commit -m "Corrige estrutura do package.json para deploy"
